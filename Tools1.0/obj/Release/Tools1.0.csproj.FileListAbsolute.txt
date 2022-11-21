@@ -1,0 +1,39 @@
+C:\Users\Beom\documents\visual studio 2015\Projects\Tools1.0\Tools1.0\bin\Release\Tools1.0.exe.config
+C:\Users\Beom\documents\visual studio 2015\Projects\Tools1.0\Tools1.0\bin\Release\Tools1.0.exe
+C:\Users\Beom\documents\visual studio 2015\Projects\Tools1.0\Tools1.0\bin\Release\Tools1.0.pdb
+C:\Users\Beom\documents\visual studio 2015\Projects\Tools1.0\Tools1.0\obj\Release\Tools1._0.Form1.resources
+C:\Users\Beom\documents\visual studio 2015\Projects\Tools1.0\Tools1.0\obj\Release\Tools1._0.Properties.Resources.resources
+C:\Users\Beom\documents\visual studio 2015\Projects\Tools1.0\Tools1.0\obj\Release\Tools1.0.csproj.GenerateResource.Cache
+C:\Users\Beom\documents\visual studio 2015\Projects\Tools1.0\Tools1.0\obj\Release\Tools1.0.exe
+C:\Users\Beom\documents\visual studio 2015\Projects\Tools1.0\Tools1.0\obj\Release\Tools1.0.pdb
+C:\Users\Main_kimbus\Documents\Tools\아프리카\Tools1.0\Tools1.0\bin\Release\Tools1.0.exe.config
+C:\Users\Main_kimbus\Documents\Tools\아프리카\Tools1.0\Tools1.0\bin\Release\Tools1.0.exe
+C:\Users\Main_kimbus\Documents\Tools\아프리카\Tools1.0\Tools1.0\bin\Release\Tools1.0.pdb
+C:\Users\Main_kimbus\Documents\Tools\아프리카\Tools1.0\Tools1.0\obj\Release\Tools1.0.csprojAssemblyReference.cache
+C:\Users\Main_kimbus\Documents\Tools\아프리카\Tools1.0\Tools1.0\obj\Release\Tools1._0.Form1.resources
+C:\Users\Main_kimbus\Documents\Tools\아프리카\Tools1.0\Tools1.0\obj\Release\Tools1._0.Properties.Resources.resources
+C:\Users\Main_kimbus\Documents\Tools\아프리카\Tools1.0\Tools1.0\obj\Release\Tools1.0.csproj.GenerateResource.cache
+C:\Users\Main_kimbus\Documents\Tools\아프리카\Tools1.0\Tools1.0\obj\Release\Tools1.0.csproj.CoreCompileInputs.cache
+C:\Users\Main_kimbus\Documents\Tools\아프리카\Tools1.0\Tools1.0\obj\Release\Tools1.0.exe
+C:\Users\Main_kimbus\Documents\Tools\아프리카\Tools1.0\Tools1.0\obj\Release\Tools1.0.pdb
+J:\GitHub\SpecialMoveTool\Tools1.0\Tools1.0\bin\Release\Tools1.0.exe.config
+J:\GitHub\SpecialMoveTool\Tools1.0\Tools1.0\bin\Release\Tools1.0.exe
+J:\GitHub\SpecialMoveTool\Tools1.0\Tools1.0\bin\Release\Tools1.0.pdb
+J:\GitHub\SpecialMoveTool\Tools1.0\Tools1.0\obj\Release\Tools1._0.Form1.resources
+J:\GitHub\SpecialMoveTool\Tools1.0\Tools1.0\obj\Release\Tools1._0.Form2.resources
+J:\GitHub\SpecialMoveTool\Tools1.0\Tools1.0\obj\Release\Tools1._0.Properties.Resources.resources
+J:\GitHub\SpecialMoveTool\Tools1.0\Tools1.0\obj\Release\Tools1.0.csproj.GenerateResource.cache
+J:\GitHub\SpecialMoveTool\Tools1.0\Tools1.0\obj\Release\Tools1.0.csproj.CoreCompileInputs.cache
+J:\GitHub\SpecialMoveTool\Tools1.0\Tools1.0\obj\Release\Tools1.0.exe
+J:\GitHub\SpecialMoveTool\Tools1.0\Tools1.0\obj\Release\Tools1.0.pdb
+J:\GitHub\SpecialMoveTool\MoveTool\Tools1.0\bin\Release\Tools1.0.exe.config
+J:\GitHub\SpecialMoveTool\MoveTool\Tools1.0\bin\Release\Tools1.0.exe
+J:\GitHub\SpecialMoveTool\MoveTool\Tools1.0\bin\Release\Tools1.0.pdb
+J:\GitHub\SpecialMoveTool\MoveTool\Tools1.0\obj\Release\Tools1.0.csproj.AssemblyReference.cache
+J:\GitHub\SpecialMoveTool\MoveTool\Tools1.0\obj\Release\Tools1._0.Form1.resources
+J:\GitHub\SpecialMoveTool\MoveTool\Tools1.0\obj\Release\Tools1._0.Form2.resources
+J:\GitHub\SpecialMoveTool\MoveTool\Tools1.0\obj\Release\Tools1._0.Properties.Resources.resources
+J:\GitHub\SpecialMoveTool\MoveTool\Tools1.0\obj\Release\Tools1.0.csproj.GenerateResource.cache
+J:\GitHub\SpecialMoveTool\MoveTool\Tools1.0\obj\Release\Tools1.0.csproj.CoreCompileInputs.cache
+J:\GitHub\SpecialMoveTool\MoveTool\Tools1.0\obj\Release\Tools1.0.exe
+J:\GitHub\SpecialMoveTool\MoveTool\Tools1.0\obj\Release\Tools1.0.pdb
