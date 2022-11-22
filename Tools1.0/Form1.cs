@@ -1633,6 +1633,7 @@ namespace Tools1._0
             if (e.KeyData == Keys.Space)
                 InsertBar_Process();
 
+
         }
 
         private void button3_Click(object sender, EventArgs e)

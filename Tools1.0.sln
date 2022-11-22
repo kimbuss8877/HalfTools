@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tools1.0", "Tools1.0\Tools1.0.csproj", "{41DB8118-8205-4E11-B9BD-07CB507D4191}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Half", "Tools1.0\Half.csproj", "{41DB8118-8205-4E11-B9BD-07CB507D4191}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -18,5 +18,8 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32BB30AB-D734-448B-9A15-3C4990FB132F}
 	EndGlobalSection
 EndGlobal
