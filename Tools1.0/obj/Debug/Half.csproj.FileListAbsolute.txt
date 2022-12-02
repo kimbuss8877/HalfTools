@@ -1,0 +1,11 @@
+J:\GitHub\HalfTools\Tools1.0\bin\Debug\Tools1.0.exe.config
+J:\GitHub\HalfTools\Tools1.0\bin\Debug\Tools1.0.exe
+J:\GitHub\HalfTools\Tools1.0\bin\Debug\Tools1.0.pdb
+J:\GitHub\HalfTools\Tools1.0\obj\Debug\Half.csproj.AssemblyReference.cache
+J:\GitHub\HalfTools\Tools1.0\obj\Debug\Tools1._0.Form1.resources
+J:\GitHub\HalfTools\Tools1.0\obj\Debug\Tools1._0.Form2.resources
+J:\GitHub\HalfTools\Tools1.0\obj\Debug\Tools1._0.Properties.Resources.resources
+J:\GitHub\HalfTools\Tools1.0\obj\Debug\Half.csproj.GenerateResource.cache
+J:\GitHub\HalfTools\Tools1.0\obj\Debug\Half.csproj.CoreCompileInputs.cache
+J:\GitHub\HalfTools\Tools1.0\obj\Debug\Tools1.0.exe
+J:\GitHub\HalfTools\Tools1.0\obj\Debug\Tools1.0.pdb

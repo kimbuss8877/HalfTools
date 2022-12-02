@@ -125,7 +125,7 @@ namespace Tools1._0
         //    Header[0] = Convert.ToInt32(comboBox2.Text);      //      1 테이블 크기
             Header[0] += 10000000;
             textBox2.Text = "1";                            //      2 테이블 갯수
-            textBox3.Text = "30";                           //      3 리미트
+            textBox3.Text = "10000";                           //      3 리미트
             textBox4.Text = "1";                           //      4 뱅크 5000 최대 횟수
             textBox5.Text = "10";                           //      5 뱅크 2만 최대 횟수
             textBox6.Text = "20";                           //      6 뱅크 3만 최대 횟수
@@ -636,11 +636,11 @@ namespace Tools1._0
             Mashine_Num = Convert.ToInt32(numericUpDown19.Value);
 
             Current_Directory = System.IO.Directory.GetCurrentDirectory();
-            Current_Directory = Current_Directory + "\\" + Mashine_Num + "\\" +"level.tbl";
+            Current_Directory = Current_Directory + "\\" + Mashine_Num + "\\" +"lev0.tab";
             FileInfo Fi = new FileInfo(Current_Directory);         
           
           
-            Header[0] = 10000001;                          // 헤더 0 테이블 데이터 최대값         1
+            Header[0] = 10000000;                          // 헤더 0 테이블 데이터 최대값         1
             Header[1] = Convert.ToInt32(textBox2.Text);    // 헤더 1 테이블 갯수                  2 테이블 갯수   
             Header[2] = Convert.ToInt32(textBox3.Text);    // 헤더 2 크레딧 퍼센트                3 리미트
             Header[3] = Convert.ToInt32(textBox4.Text);    // 헤더 3 리미트                       4 5000 최대 값
@@ -651,11 +651,7 @@ namespace Tools1._0
             Header[8] = Convert.ToInt32(textBox9.Text);    // 헤더 8 중간 점수 배출 확률          9
             Header[9] = Convert.ToInt32(textBox10.Text);   // 헤더 9 큰   점수 배출 확률         10
 
-            //textBox2.Text = "1";                            //      2 테이블 갯수
-            //textBox3.Text = "30";                           //      3 리미트
-            //textBox4.Text = "20";                          //       4 뱅크 5000 최대 횟수
-            //textBox5.Text = "30";                           //      5 뱅크 2만 최대 횟수
-            //textBox6.Text = "80";                           //      6 뱅크 3만 최대 횟수
+          
             if (Fi.Exists)
             {               
                 WriteData_File();
@@ -673,7 +669,7 @@ namespace Tools1._0
             Loading_On = false;
             OpenFileDialog OD = new OpenFileDialog();
             OD.Title = "fileOpen";
-            OD.Filter = "Txt Data_|*.tbl";
+            OD.Filter = "Txt Data_|*.tab";
             if(OD.ShowDialog() == System.Windows.Forms.DialogResult.OK)
             {
                 DataTblReset_Process();
@@ -746,14 +742,14 @@ namespace Tools1._0
             if (di.Exists == false)
                 di.Create();
 
-            Current_Directory = Current_Directory + "\\" + "level.tbl";
+            Current_Directory = Current_Directory + "\\" + "lev0.tab";
             System.IO.FileStream FFs = new System.IO.FileStream(Current_Directory, FileMode.Create);
             FFs.Close();
         }
         private int File_Loop;
         public int[] Header = new int[10];
         public int[] TableData = new int[10000];
-        private int[] DataToTotal_Arr = new int[10010];
+        private int[] DataToTotal_Arr = new int[10003];
 
         private void WriteData_File()
         {         
@@ -763,13 +759,15 @@ namespace Tools1._0
             for (int k = 0; k < DataToTotal_Arr.Length; k++)
                 DataToTotal_Arr[k] = 0;
 
-            for (int k = 0; k < 10; k++)
-                DataToTotal_Arr[k] = Header[k];
-
+            //for (int k = 0; k < 10; k++)
+            //    DataToTotal_Arr[k] = Header[k];
+            DataToTotal_Arr[0] = Header[0];
+            DataToTotal_Arr[1] = Header[1];
+            DataToTotal_Arr[2] = Header[2];
 
             for (File_Loop = 0; File_Loop < DataTbl.Length; File_Loop++)
             {
-                DataToTotal_Arr[File_Loop + 10] = DataTbl[File_Loop];              
+                DataToTotal_Arr[File_Loop + 3] = DataTbl[File_Loop];              
             }
 
             for (File_Loop = 0; File_Loop < DataToTotal_Arr.Length; File_Loop++)
